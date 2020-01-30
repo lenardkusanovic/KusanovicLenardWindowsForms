@@ -1,0 +1,9 @@
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\bin\Debug\KusanovicLenardRichTextBox.exe.config
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\bin\Debug\KusanovicLenardRichTextBox.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\bin\Debug\KusanovicLenardRichTextBox.pdb
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.csprojAssemblyReference.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.Form1.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.Properties.Resources.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.csproj.GenerateResource.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardRichTextBox\KusanovicLenardRichTextBox\obj\Debug\KusanovicLenardRichTextBox.pdb

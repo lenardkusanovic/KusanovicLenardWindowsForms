@@ -1,0 +1,9 @@
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\bin\Debug\KusanovicLenardPictureBox.exe.config
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\bin\Debug\KusanovicLenardPictureBox.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\bin\Debug\KusanovicLenardPictureBox.pdb
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.csprojAssemblyReference.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.Form1.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.Properties.Resources.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.csproj.GenerateResource.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardPictureBox\KusanovicLenardPictureBox\obj\Debug\KusanovicLenardPictureBox.pdb

@@ -1,0 +1,9 @@
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\bin\Debug\KusanovicLenardTrackBar.exe.config
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\bin\Debug\KusanovicLenardTrackBar.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\bin\Debug\KusanovicLenardTrackBar.pdb
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.csprojAssemblyReference.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.Form1.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.Properties.Resources.resources
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.csproj.GenerateResource.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardTrackBar\KusanovicLenardTrackBar\obj\Debug\KusanovicLenardTrackBar.pdb
